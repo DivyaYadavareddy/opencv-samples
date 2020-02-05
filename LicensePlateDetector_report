@@ -20,8 +20,9 @@ Algorithm                                                  drawbacks
 3.LPD using YOLO V3                         3.yolo trained for russian plates only
 
 
-4.LPD using haarcascade file and            4.Sometimes Tesseract library has failed to recognize the text recognition with Tesseract           characters properly
+4.LPD using haarcascade file and            4.Sometimes Tesseract library has failed to recognize the 
+text recognition with Tesseract               characters properly
                 
 
 
- Tesseract library has failed to recognize the characters properly
+
